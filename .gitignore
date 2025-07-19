@@ -1,0 +1,15 @@
+# Verzeichnisse
+data/
+.claude/
+uploads/
+venv/
+
+# Umgebungsvariablen
+.env
+.env.*
+
+# Sonstiges
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
